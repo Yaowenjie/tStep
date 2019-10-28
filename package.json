@@ -1,0 +1,22 @@
+{
+  "name": "tstep",
+  "version": "1.0.0",
+  "description": "TestCafe in BDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yaowenjie/tStep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yaowenjie/tStep/issues"
+  },
+  "homepage": "https://github.com/Yaowenjie/tStep#readme",
+  "dependencies": {
+    "testcafe": "^1.6.0"
+  }
+}
