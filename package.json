@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Yaowenjie/tStep#readme",
   "dependencies": {
-    "testcafe": "^1.6.0"
+    "testcafe": "^1.20.1"
   }
 }
